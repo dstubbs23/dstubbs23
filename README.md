@@ -20,6 +20,7 @@
   <h2>📃 Certifications</h2>
  
  - CompTIA Security+
+ - Splunk Core Certified Power User
   
   
   <h2>📺 Popular YouTube Videos</h2>
