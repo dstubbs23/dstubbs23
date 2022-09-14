@@ -1,4 +1,4 @@
-<h1>Hi, I'm Darius! <br/><a href="https://www.linkedin.com/in/dariusstubbs/">Cybersecurity Professional</a>
+<h1>Hi, I'm Darius! <br/><a href="https://www.linkedin.com/in/dariusstubbs/">Cybersecurity Analyst</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
