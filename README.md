@@ -21,6 +21,8 @@
  
  - CompTIA Security+
  - Splunk Core Certified Power User
+ - Security Blue Team Level 1
+ - AttackIQ Foundations of Operationalizing MITRE ATT&CK
   
   
   <h2>📺 Popular YouTube Videos</h2>
