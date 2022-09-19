@@ -9,10 +9,10 @@
 
   <h2>📃 Certifications</h2>
  
- - CompTIA Security+(https://www.credly.com/badges/a3c64d6e-c78b-4d6b-8bec-7983eba1aa13/public_url)
- - Splunk Core Certified Power User(https://www.credly.com/badges/2ed5e3ce-a9d1-4de2-87c9-7d8ecbf70ff8/public_url)
- - Security Blue Team Level 1(https://www.credly.com/badges/3714c150-8c61-4b6a-8aec-ee776d923399/public_url)
- - AttackIQ Foundations of Operationalizing MITRE ATT&CK(https://www.credly.com/badges/565654e7-8cce-4742-82ba-482bf4ed9798/public_url)
+ - [CompTIA Security+](https://www.credly.com/badges/a3c64d6e-c78b-4d6b-8bec-7983eba1aa13/public_url)
+ - [Splunk Core Certified Power User](https://www.credly.com/badges/2ed5e3ce-a9d1-4de2-87c9-7d8ecbf70ff8/public_url)
+ - [Security Blue Team Level 1](https://www.credly.com/badges/3714c150-8c61-4b6a-8aec-ee776d923399/public_url)
+ - [AttackIQ Foundations of Operationalizing MITRE ATT&CK](https://www.credly.com/badges/565654e7-8cce-4742-82ba-482bf4ed9798/public_url)
   
   
 
