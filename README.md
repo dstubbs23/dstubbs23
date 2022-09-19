@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Vulnerability Management (Nessus)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Nesssus Vulnerability Management](https://github.com/dstubbs23/VulnerabilityManagement)
 - <b>Microsoft Sentinel Map with Live Cyber Attacks</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
