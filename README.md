@@ -4,7 +4,7 @@
 - <b>Vulnerability Management (Nessus)</b>
   - [Nesssus Vulnerability Management](https://github.com/dstubbs23/VulnerabilityManagement)
 - <b>Microsoft Sentinel Map with Live Cyber Attacks</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Azure Sentinel Map]
 
 
   <h2>📃 Certifications</h2>
