@@ -4,7 +4,7 @@
 - <b>Vulnerability Management (Nessus)</b>
   - [Nesssus Vulnerability Management](https://github.com/dstubbs23/VulnerabilityManagement)
 - <b>Microsoft Sentinel Map with Live Cyber Attacks</b>
-  - [Azure Sentinel Map]
+  - [Azure Sentinel Map](https://github.com/dstubbs23/AzureSentinelMap)
 
 
   <h2>📃 Certifications</h2>
