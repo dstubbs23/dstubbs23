@@ -1,4 +1,4 @@
-<h1>Hi, I'm Darius! <br/><a href="https://www.linkedin.com/in/dariusstubbs/">Cybersecurity Analyst</a>
+<h1>Hi, I'm Darius! <br/><a href="https://www.linkedin.com/in/dariusstubbs/">Security Engineer</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Vulnerability Management (Nessus)</b>
